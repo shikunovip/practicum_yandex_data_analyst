@@ -5,5 +5,4 @@
 ```python
 print("Это фрагмент кода на python")
 ```
-[Текст ссылки](адрес://ссылки.здесь "Заголовок ссылки")
 [Подробнее о Markdown по ссылке](https://daringfireball.net/projects/markdown/)
