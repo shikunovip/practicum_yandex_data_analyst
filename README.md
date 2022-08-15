@@ -1,8 +1,8 @@
 # data_analyst_projects
 Добро пожаловать!
-Ниже предствлены выполненные мною учебные проекты из Яндекс.Практикума и не только
+Ниже предствлены выполненные мною учебные проекты из Яндекс.Практикума и не только. 
 
-## Проекты в jupiter notebook
+## Проекты в jupiter notebook 
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
@@ -12,7 +12,7 @@
 
 ## Дашборды в различных BI инструментах
 
-<details><summary>Выпадающий список</summary>
+<details><summary>Power BI</summary>
 
    1. First item must be preceeded with an empty line.
    1. Markdown renders **perfectly**.
@@ -20,7 +20,21 @@
 
 </details>
 
+<details><summary>Yandex.DataLens</summary>
 
+   1. First item must be preceeded with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+
+</details>
+
+<details><summary>Tableau</summary>
+
+   1. First item must be preceeded with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+
+</details>
 
 ```python
 print("Это фрагмент кода на python")
