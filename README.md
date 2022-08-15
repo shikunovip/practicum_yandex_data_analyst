@@ -14,37 +14,3 @@
 | [Аналитика стартапа по продаже продуктов питания](https://github.com/shikunovip/data_analyst_projects/blob/main/food_sales_startup/food_sales_startup.ipynb) | В данном проекте мной были изучены принципы событийной аналитики. Я построил воронку продаж, исследовал путь пользователей до покупки. Проанализировал результаты A/B-теста введения новых шрифтов. Сравнил 2 контрольных группы между собой, убедился в правильном разделении трафика, а затем сравнил с тестовой группой Выявлено, что новый шрифт значительно не повлияет на поведение пользователей. | `Python`, `Pandas`, `Seaborn`, `Matplotlib`, `Plotly`|
 | [Маркетинговая аналитика для развлекательного приложения](https://github.com/shikunovip/data_analyst_projects/blob/main/application_marketing_analysis/application_marketing_analysis.ipynb) | Проведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным.| `Python`, `Pandas`, `Seaborn`, `Matplotlib` |
 | [Проверка гипотез по увеличению выручки в интернет-магазине — оценка результатов A/B теста](https://github.com/shikunovip/data_analyst_projects/blob/main/AB_tests/AB_test_results.ipynb) | Проведена приоритизация гипотез по фреймворкам ICE и RICE. Затем провел анализ результатов A/B-теста, построил графики кумулятивной выручки, среднего чека, конверсии по группам, а затем посчитал статистическую значимость различий конверсий и средних чеков по сырым и очищенным данным. На основании анализа мной было принято решение о нецелесообразности дальнейшего проведения теста.| `Python`, `Pandas`, `Matplotlib`, `Scipy`|
-
-## Примеры SQL-запросов 
-
-```python
-print("Это фрагмент кода на python")
-```
-
-## Дашборды в различных BI инструментах
-
-<details><summary>Power BI</summary>
-
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
-
-</details>
-
-<details><summary>Yandex.DataLens</summary>
-
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
-
-</details>
-
-<details><summary>Tableau</summary>
-
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
-
-</details>
-
-
