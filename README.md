@@ -11,6 +11,10 @@
 
 ## Примеры SQL-запросов 
 
+```python
+print("Это фрагмент кода на python")
+```
+
 ## Дашборды в различных BI инструментах
 
 <details><summary>Power BI</summary>
@@ -37,6 +41,4 @@
 
 </details>
 
-```python
-print("Это фрагмент кода на python")
-```
+
